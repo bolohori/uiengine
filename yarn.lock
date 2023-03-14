@@ -3230,13 +3230,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/eslint-scope@npm:^3.7.0":
-  version: 3.7.0
-  resolution: "@types/eslint-scope@npm:3.7.0"
+"@types/eslint-scope@npm:^3.7.3":
+  version: 3.7.4
+  resolution: "@types/eslint-scope@npm:3.7.4"
   dependencies:
     "@types/eslint": "*"
     "@types/estree": "*"
-  checksum: 1ee912a956f6fecd26bef9517ef33473498feda4a7fc7f191b705c750dcf8bbbd78a83d8c69e66d98c23cad4dfc8769a464780a3cf395948e3f0f85146729f68
+  checksum: a853e8b0af94da522add3887d8c23587ece30156965e261f6f88273e91cc1e2ed253d3c869ed8d411c434cea5b892783110b0616fa571ea052ba4a1f9fd7ee92
   languageName: node
   linkType: hard
 
@@ -3264,10 +3264,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/estree@npm:^0.0.50":
-  version: 0.0.50
-  resolution: "@types/estree@npm:0.0.50"
-  checksum: dd52d035077d4ea92ff7a1191b1b02ccd0dba76ad51d1d95e4cd81dd3cc234042b859ae9160c3059dcc5c384cd895cd860d4f18913f1033736f867543f5d4743
+"@types/estree@npm:^0.0.51":
+  version: 0.0.51
+  resolution: "@types/estree@npm:0.0.51"
+  checksum: b67a490e5b0b5e7f532912eb4ba3231df6c3eb73b71d8fea2d445f71da6058c204bf0c4ba05c1d7877e4c77428f929bc51cf683ae19eeaf33dc12b79168208ab
   languageName: node
   linkType: hard
 
@@ -3424,11 +3424,11 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@uiengine/adapter-css@3.2.1, @uiengine/adapter-css@workspace:packages/adapter-css":
+"@uiengine/adapter-css@3.2.2, @uiengine/adapter-css@workspace:packages/adapter-css":
   version: 0.0.0-use.local
   resolution: "@uiengine/adapter-css@workspace:packages/adapter-css"
   dependencies:
-    "@uiengine/util": 3.2.1
+    "@uiengine/util": 3.2.2
     deepmerge: 4.2.2
     eslint: 7.32.0
     eslint-config-standard: 16.0.3
@@ -3440,7 +3440,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@uiengine/adapter-ejs@3.2.1, @uiengine/adapter-ejs@workspace:packages/adapter-ejs":
+"@uiengine/adapter-ejs@3.2.2, @uiengine/adapter-ejs@workspace:packages/adapter-ejs":
   version: 0.0.0-use.local
   resolution: "@uiengine/adapter-ejs@workspace:packages/adapter-ejs"
   dependencies:
@@ -3456,11 +3456,11 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@uiengine/adapter-handlebars@3.2.1, @uiengine/adapter-handlebars@workspace:packages/adapter-handlebars":
+"@uiengine/adapter-handlebars@3.2.2, @uiengine/adapter-handlebars@workspace:packages/adapter-handlebars":
   version: 0.0.0-use.local
   resolution: "@uiengine/adapter-handlebars@workspace:packages/adapter-handlebars"
   dependencies:
-    "@uiengine/util": 3.2.1
+    "@uiengine/util": 3.2.2
     eslint: 7.32.0
     eslint-config-standard: 16.0.3
     eslint-plugin-import: 2.24.2
@@ -3473,11 +3473,11 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@uiengine/adapter-html@3.2.1, @uiengine/adapter-html@workspace:packages/adapter-html":
+"@uiengine/adapter-html@3.2.2, @uiengine/adapter-html@workspace:packages/adapter-html":
   version: 0.0.0-use.local
   resolution: "@uiengine/adapter-html@workspace:packages/adapter-html"
   dependencies:
-    "@uiengine/util": 3.2.1
+    "@uiengine/util": 3.2.2
     eslint: 7.32.0
     eslint-config-standard: 16.0.3
     eslint-plugin-import: 2.24.2
@@ -3487,11 +3487,11 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@uiengine/adapter-marko@3.2.1, @uiengine/adapter-marko@workspace:packages/adapter-marko":
+"@uiengine/adapter-marko@3.2.2, @uiengine/adapter-marko@workspace:packages/adapter-marko":
   version: 0.0.0-use.local
   resolution: "@uiengine/adapter-marko@workspace:packages/adapter-marko"
   dependencies:
-    "@uiengine/util": 3.2.1
+    "@uiengine/util": 3.2.2
     eslint: 7.32.0
     eslint-config-standard: 16.0.3
     eslint-plugin-import: 2.24.2
@@ -3507,7 +3507,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@uiengine/adapter-nunjucks@3.2.1, @uiengine/adapter-nunjucks@workspace:packages/adapter-nunjucks":
+"@uiengine/adapter-nunjucks@3.2.2, @uiengine/adapter-nunjucks@workspace:packages/adapter-nunjucks":
   version: 0.0.0-use.local
   resolution: "@uiengine/adapter-nunjucks@workspace:packages/adapter-nunjucks"
   dependencies:
@@ -3523,11 +3523,11 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@uiengine/adapter-pug@3.2.1, @uiengine/adapter-pug@workspace:packages/adapter-pug":
+"@uiengine/adapter-pug@3.2.2, @uiengine/adapter-pug@workspace:packages/adapter-pug":
   version: 0.0.0-use.local
   resolution: "@uiengine/adapter-pug@workspace:packages/adapter-pug"
   dependencies:
-    "@uiengine/util": 3.2.1
+    "@uiengine/util": 3.2.2
     eslint: 7.32.0
     eslint-config-standard: 16.0.3
     eslint-plugin-import: 2.24.2
@@ -3543,7 +3543,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@uiengine/adapter-webpack@3.2.1, @uiengine/adapter-webpack@workspace:packages/adapter-webpack":
+"@uiengine/adapter-webpack@3.2.2, @uiengine/adapter-webpack@workspace:packages/adapter-webpack":
   version: 0.0.0-use.local
   resolution: "@uiengine/adapter-webpack@workspace:packages/adapter-webpack"
   dependencies:
@@ -3551,7 +3551,7 @@ __metadata:
     "@babel/preset-env": 7.15.6
     "@babel/preset-react": 7.14.5
     "@babel/register": 7.15.3
-    "@uiengine/util": 3.2.1
+    "@uiengine/util": 3.2.2
     babel-eslint: 10.1.0
     babel-loader: 8.2.2
     babel-plugin-syntax-jsx: 6.18.0
@@ -3580,7 +3580,7 @@ __metadata:
     vue-server-renderer: 2.6.14
     vue-style-loader: 4.1.3
     vue-template-compiler: 2.6.14
-    webpack: 5.52.1
+    webpack: 5.76.0
     webpack-merge: 5.8.0
     webpack-node-externals: 3.0.0
     webpack-virtual-modules: 0.4.3
@@ -3594,11 +3594,11 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@uiengine/cli@3.2.1, @uiengine/cli@workspace:packages/cli":
+"@uiengine/cli@3.2.2, @uiengine/cli@workspace:packages/cli":
   version: 0.0.0-use.local
   resolution: "@uiengine/cli@workspace:packages/cli"
   dependencies:
-    "@uiengine/util": 3.2.1
+    "@uiengine/util": 3.2.2
     eslint: 7.32.0
     eslint-config-standard: 16.0.3
     eslint-plugin-import: 2.24.2
@@ -3614,23 +3614,23 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@uiengine/core@3.2.1, @uiengine/core@workspace:packages/core":
+"@uiengine/core@3.2.2, @uiengine/core@workspace:packages/core":
   version: 0.0.0-use.local
   resolution: "@uiengine/core@workspace:packages/core"
   dependencies:
-    "@uiengine/adapter-css": 3.2.1
-    "@uiengine/adapter-ejs": 3.2.1
-    "@uiengine/adapter-handlebars": 3.2.1
-    "@uiengine/adapter-html": 3.2.1
-    "@uiengine/adapter-marko": 3.2.1
-    "@uiengine/adapter-nunjucks": 3.2.1
-    "@uiengine/adapter-pug": 3.2.1
-    "@uiengine/adapter-webpack": 3.2.1
-    "@uiengine/cli": 3.2.1
-    "@uiengine/plugin-preview-a11y": 3.2.1
-    "@uiengine/plugin-preview-toggle-class": 3.2.1
-    "@uiengine/ui": 3.2.1
-    "@uiengine/util": 3.2.1
+    "@uiengine/adapter-css": 3.2.2
+    "@uiengine/adapter-ejs": 3.2.2
+    "@uiengine/adapter-handlebars": 3.2.2
+    "@uiengine/adapter-html": 3.2.2
+    "@uiengine/adapter-marko": 3.2.2
+    "@uiengine/adapter-nunjucks": 3.2.2
+    "@uiengine/adapter-pug": 3.2.2
+    "@uiengine/adapter-webpack": 3.2.2
+    "@uiengine/cli": 3.2.2
+    "@uiengine/plugin-preview-a11y": 3.2.2
+    "@uiengine/plugin-preview-toggle-class": 3.2.2
+    "@uiengine/ui": 3.2.2
+    "@uiengine/util": 3.2.2
     browser-sync: 2.27.5
     chokidar: 3.5.2
     connect-history-api-fallback: 1.6.0
@@ -3694,16 +3694,16 @@ __metadata:
     rimraf: 3.0.2
     standard: 16.0.3
     uglify-js: 3.14.2
-    webpack: 5.52.1
+    webpack: 5.76.0
     webpack-cli: 4.8.0
   languageName: unknown
   linkType: soft
 
-"@uiengine/plugin-preview-a11y@3.2.1, @uiengine/plugin-preview-a11y@workspace:packages/plugin-preview-a11y":
+"@uiengine/plugin-preview-a11y@3.2.2, @uiengine/plugin-preview-a11y@workspace:packages/plugin-preview-a11y":
   version: 0.0.0-use.local
   resolution: "@uiengine/plugin-preview-a11y@workspace:packages/plugin-preview-a11y"
   dependencies:
-    "@uiengine/core": 3.2.1
+    "@uiengine/core": 3.2.2
     axe-core: 4.3.3
     eslint: 7.32.0
     eslint-config-standard: 16.0.3
@@ -3716,11 +3716,11 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@uiengine/plugin-preview-toggle-class@3.2.1, @uiengine/plugin-preview-toggle-class@workspace:packages/plugin-preview-toggle-class":
+"@uiengine/plugin-preview-toggle-class@3.2.2, @uiengine/plugin-preview-toggle-class@workspace:packages/plugin-preview-toggle-class":
   version: 0.0.0-use.local
   resolution: "@uiengine/plugin-preview-toggle-class@workspace:packages/plugin-preview-toggle-class"
   dependencies:
-    "@uiengine/core": 3.2.1
+    "@uiengine/core": 3.2.2
     eslint: 7.32.0
     eslint-config-standard: 16.0.3
     eslint-plugin-import: 2.24.2
@@ -3759,20 +3759,20 @@ __metadata:
     "@babel/preset-env": 7.15.6
     "@babel/preset-react": 7.14.5
     "@babel/register": 7.15.3
-    "@uiengine/adapter-css": 3.2.1
-    "@uiengine/adapter-ejs": 3.2.1
-    "@uiengine/adapter-handlebars": 3.2.1
-    "@uiengine/adapter-html": 3.2.1
-    "@uiengine/adapter-marko": 3.2.1
-    "@uiengine/adapter-nunjucks": 3.2.1
-    "@uiengine/adapter-pug": 3.2.1
-    "@uiengine/adapter-webpack": 3.2.1
-    "@uiengine/cli": 3.2.1
-    "@uiengine/core": 3.2.1
-    "@uiengine/plugin-preview-a11y": 3.2.1
-    "@uiengine/plugin-preview-toggle-class": 3.2.1
-    "@uiengine/ui": 3.2.1
-    "@uiengine/util": 3.2.1
+    "@uiengine/adapter-css": 3.2.2
+    "@uiengine/adapter-ejs": 3.2.2
+    "@uiengine/adapter-handlebars": 3.2.2
+    "@uiengine/adapter-html": 3.2.2
+    "@uiengine/adapter-marko": 3.2.2
+    "@uiengine/adapter-nunjucks": 3.2.2
+    "@uiengine/adapter-pug": 3.2.2
+    "@uiengine/adapter-webpack": 3.2.2
+    "@uiengine/cli": 3.2.2
+    "@uiengine/core": 3.2.2
+    "@uiengine/plugin-preview-a11y": 3.2.2
+    "@uiengine/plugin-preview-toggle-class": 3.2.2
+    "@uiengine/ui": 3.2.2
+    "@uiengine/util": 3.2.2
     babel-eslint: 10.1.0
     babel-loader: 8.2.2
     babel-plugin-syntax-jsx: 6.18.0
@@ -3805,13 +3805,13 @@ __metadata:
     vue-server-renderer: 2.6.14
     vue-style-loader: 4.1.3
     vue-template-compiler: 2.6.14
-    webpack: 5.52.1
+    webpack: 5.76.0
     webpack-merge: 5.8.0
     webpack-node-externals: 3.0.0
   languageName: unknown
   linkType: soft
 
-"@uiengine/ui@3.2.1, @uiengine/ui@workspace:packages/ui":
+"@uiengine/ui@3.2.2, @uiengine/ui@workspace:packages/ui":
   version: 0.0.0-use.local
   resolution: "@uiengine/ui@workspace:packages/ui"
   dependencies:
@@ -3821,7 +3821,7 @@ __metadata:
     "@babel/plugin-transform-runtime": 7.15.0
     "@babel/preset-env": 7.15.6
     "@babel/runtime": 7.15.4
-    "@uiengine/util": 3.2.1
+    "@uiengine/util": 3.2.2
     autoprefixer: 10.3.4
     babel-eslint: 10.1.0
     babel-loader: 8.2.2
@@ -3877,7 +3877,7 @@ __metadata:
     vue-style-loader: 4.1.3
     vue-template-compiler: 2.6.14
     vuex: 3.6.2
-    webpack: 5.52.1
+    webpack: 5.76.0
     webpack-bundle-analyzer: 4.4.2
     webpack-cli: 4.8.0
     webpack-merge: 5.8.0
@@ -3885,7 +3885,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@uiengine/util@3.2.1, @uiengine/util@workspace:packages/util":
+"@uiengine/util@3.2.2, @uiengine/util@workspace:packages/util":
   version: 0.0.0-use.local
   resolution: "@uiengine/util@workspace:packages/util"
   dependencies:
@@ -4398,12 +4398,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"acorn@npm:^8.4.1":
-  version: 8.4.1
-  resolution: "acorn@npm:8.4.1"
+"acorn@npm:^8.7.1":
+  version: 8.8.2
+  resolution: "acorn@npm:8.8.2"
   bin:
     acorn: bin/acorn
-  checksum: 37720df0ecd48baf87506aff228aedc7e73379df9e9309f0b89aaff18bb3d08af892d47c0f19d5ef1723066ca74157b00adcfea9a62b21a493c91babb7d22bc3
+  checksum: ff4058b23372a00dbd1a32ebbe029b53e22198cf2dd70aed99a7715b07eb98c2f669f3ac27e969fcb3b15dbade7a6654e72dd4b845996ce5698520b122d1cc8c
   languageName: node
   linkType: hard
 
@@ -8178,13 +8178,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"enhanced-resolve@npm:^5.8.0":
-  version: 5.8.0
-  resolution: "enhanced-resolve@npm:5.8.0"
+"enhanced-resolve@npm:^5.10.0":
+  version: 5.12.0
+  resolution: "enhanced-resolve@npm:5.12.0"
   dependencies:
     graceful-fs: ^4.2.4
     tapable: ^2.2.0
-  checksum: a3e1131c9ba0dd6f8276f068ddac4e6469d824ee8132f748e2734722b9f25360f4cb5a7fbec1cab8cd56815a6762e0bb1b8d088cbdf2a276d30d573ac5528bbb
+  checksum: 61f3e8af9acf91816cb771c3338062cdfa1377d4d85d45740f9f9233d4d178f6918d5629203a68cce650b0cdad5b696043ccb96b0ad3a66a370f8e4cb0b8ba7a
   languageName: node
   linkType: hard
 
@@ -8324,10 +8324,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"es-module-lexer@npm:^0.7.1":
-  version: 0.7.1
-  resolution: "es-module-lexer@npm:0.7.1"
-  checksum: 3bc1416512f44343c88bbfb7d1685c11a3cb9aca6090a552b04e9bd802d778ae66aa076f2d4cd5f707061d3264ac3ff2b6a45a55f0f139a966190e57ab497571
+"es-module-lexer@npm:^0.9.0":
+  version: 0.9.3
+  resolution: "es-module-lexer@npm:0.9.3"
+  checksum: e55280100e7bdd4652b14c70b6e4472cf60a841987e04af7df6bd1ce4ed4be58adca7b786096627b4b31a04c0cd0d9a0299ea4bd0100f62282ac7b06a2074af6
   languageName: node
   linkType: hard
 
@@ -10349,6 +10349,13 @@ fsevents@~2.3.2:
   languageName: node
   linkType: hard
 
+"graceful-fs@npm:^4.2.9":
+  version: 4.2.10
+  resolution: "graceful-fs@npm:4.2.10"
+  checksum: f86679a8a53da3d8f10fd9c81a4e22f8064adf56e10a6fdb6a6aa5e6d05fea0067a99e9959c4b939b4a9c39dad02775d977bff4da9fff07d557aea840f72f0e8
+  languageName: node
+  linkType: hard
+
 "graceful-readlink@npm:>= 1.0.0":
   version: 1.0.1
   resolution: "graceful-readlink@npm:1.0.1"
@@ -12034,14 +12041,14 @@ fsevents@~2.3.2:
   languageName: node
   linkType: hard
 
-"json-parse-better-errors@npm:^1.0.1, json-parse-better-errors@npm:^1.0.2":
+"json-parse-better-errors@npm:^1.0.1":
   version: 1.0.2
   resolution: "json-parse-better-errors@npm:1.0.2"
   checksum: b4c4f0e43b43892af887db742b26f9aa6302b09cd5f6e655ead49fca9f47f3cdd300dcf98cf5218778262be51d7b29859221206fc98b87a1a61c5af7618dae89
   languageName: node
   linkType: hard
 
-"json-parse-even-better-errors@npm:^2.3.0":
+"json-parse-even-better-errors@npm:^2.3.0, json-parse-even-better-errors@npm:^2.3.1":
   version: 2.3.1
   resolution: "json-parse-even-better-errors@npm:2.3.1"
   checksum: d89fa7fe57957f3004cf0e786465a64183c0de861f6fda800d352956397c01b22f9feb141d0dce5b23f5dbe0aae74dd5b45fc0c3c1679b0942688efa5544e726
@@ -19675,13 +19682,13 @@ resolve@^1.18.1:
   languageName: node
   linkType: hard
 
-"watchpack@npm:^2.2.0":
-  version: 2.2.0
-  resolution: "watchpack@npm:2.2.0"
+"watchpack@npm:^2.4.0":
+  version: 2.4.0
+  resolution: "watchpack@npm:2.4.0"
   dependencies:
     glob-to-regexp: ^0.4.1
     graceful-fs: ^4.1.2
-  checksum: 5d02acd83644d5b9df6cf0e213868afc10e1fd71b0dd372c505b0c8967c4812e57ee92420edb967e475c88360c9341b8949368aeaa65eb0331e6872fde792394
+  checksum: 089870a1f111157784283764b92a9660e73b9707c767dc8a3c992a1bd9994208fd2ca7bf051a3070f4d91a0f20ffab21e7f318284efac1b8b072b6f234e61766
   languageName: node
   linkType: hard
 
@@ -19793,10 +19800,10 @@ resolve@^1.18.1:
   languageName: node
   linkType: hard
 
-"webpack-sources@npm:^3.2.0":
-  version: 3.2.0
-  resolution: "webpack-sources@npm:3.2.0"
-  checksum: 6813e2937fb9be8748702ac44052676e7f9d972cdd798e481d2bbc9f3512e0a668229c7f97a287d24d6f2e9e73dd4b71da0801d149656bbac532548b35c1b718
+"webpack-sources@npm:^3.2.3":
+  version: 3.2.3
+  resolution: "webpack-sources@npm:3.2.3"
+  checksum: aac02eb6759647fe681f47cf81056e03cde27440da5c3cef6d67e76eed29c372a02831af6333e9f3ca2fd08914f6e1c123dc2154063f2ac08ee89021ff503f05
   languageName: node
   linkType: hard
 
@@ -19807,40 +19814,40 @@ resolve@^1.18.1:
   languageName: node
   linkType: hard
 
-"webpack@npm:5.52.1":
-  version: 5.52.1
-  resolution: "webpack@npm:5.52.1"
+"webpack@npm:5.76.0":
+  version: 5.76.0
+  resolution: "webpack@npm:5.76.0"
   dependencies:
-    "@types/eslint-scope": ^3.7.0
-    "@types/estree": ^0.0.50
+    "@types/eslint-scope": ^3.7.3
+    "@types/estree": ^0.0.51
     "@webassemblyjs/ast": 1.11.1
     "@webassemblyjs/wasm-edit": 1.11.1
     "@webassemblyjs/wasm-parser": 1.11.1
-    acorn: ^8.4.1
+    acorn: ^8.7.1
     acorn-import-assertions: ^1.7.6
     browserslist: ^4.14.5
     chrome-trace-event: ^1.0.2
-    enhanced-resolve: ^5.8.0
-    es-module-lexer: ^0.7.1
+    enhanced-resolve: ^5.10.0
+    es-module-lexer: ^0.9.0
     eslint-scope: 5.1.1
     events: ^3.2.0
     glob-to-regexp: ^0.4.1
-    graceful-fs: ^4.2.4
-    json-parse-better-errors: ^1.0.2
+    graceful-fs: ^4.2.9
+    json-parse-even-better-errors: ^2.3.1
     loader-runner: ^4.2.0
     mime-types: ^2.1.27
     neo-async: ^2.6.2
     schema-utils: ^3.1.0
     tapable: ^2.1.1
     terser-webpack-plugin: ^5.1.3
-    watchpack: ^2.2.0
-    webpack-sources: ^3.2.0
+    watchpack: ^2.4.0
+    webpack-sources: ^3.2.3
   peerDependenciesMeta:
     webpack-cli:
       optional: true
   bin:
     webpack: bin/webpack.js
-  checksum: cb153a5a00695b0898e9111ff07c62545dc59e1078b074797ae86bea1c5ebf7c2379ca0862e646f9bebf580fbdc7da715c2ed861e2baa33e1ac5f9f8ecbcc351
+  checksum: b1707dbb0da0fff44bf6e815df024a9a07199f76ef6a86639acea5107ce9669f00bd5fc2b363c07544d7fc061d5e8efd0a2a7e6d8a837a2a2736a203ee6cca59
   languageName: node
   linkType: hard
 
