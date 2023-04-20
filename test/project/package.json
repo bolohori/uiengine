@@ -23,7 +23,7 @@
     "ejs": "3.1.6",
     "handlebars": "4.7.7",
     "marko": "4.23.17",
-    "nunjucks": "3.2.3",
+    "nunjucks": "3.2.4",
     "prop-types": "15.7.2",
     "pug": "3.0.2",
     "react": "17.0.2",
